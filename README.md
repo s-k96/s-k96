@@ -1,4 +1,4 @@
-# Introduction 
+# 👩🏽‍💻Introduction 
 ![White Minimalist Profile LinkedIn Banner](https://github.com/s-k96/s-k96/assets/150070489/97cfc202-d398-4a73-8d97-e555ae241213)
 
 👋Hello! I'm SK. 

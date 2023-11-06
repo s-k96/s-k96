@@ -4,7 +4,7 @@
 I hold a bachelor's degree in Business Technology Management, where my academic journey ignited my interest in SQL. 
 Additionally, I've earned a postgraduate certificate in Human Resource Management. My professional background 
 encompasses roles in both retail management and as a human resource assistant, providing me with valuable experiences. 
-With a deep-rooted interest in SQL, cultivated during my university studies, I'm committed to reigniting this enthusiasm. 
+With a deep-rooted interest in SQL, cultivated during my university studies, I'm committed to reigniting this passion. 
 I'm actively broadening my skill set by creating portfolio projects with SQL and Tableau, and I'm eagerly seeking 
 opportunities to apply my expertise in professional settings.
 

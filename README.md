@@ -15,6 +15,7 @@ opportunities to apply my expertise in professional settings.
 # 💻Projects
 Welcome to my portfolio, here are my Projects:
 -  [Covid-19 Analysis](https://github.com/s-k96/PortfolioProjects-Covid19Analysis)
+-  [SQL Practice](https://github.com/s-k96/SQLPractice-HospitalPatientDoctorAnalysis)
 
 
 

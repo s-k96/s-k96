@@ -23,6 +23,7 @@ Welcome to my portfolio, here are my Projects:
 # 🛠️Tools Used
 - Language: SQL (SQL Server Management)
 - Visualization: Tableau
+- Excel
 
 
 

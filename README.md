@@ -17,7 +17,9 @@ opportunities to apply my expertise in professional settings.
 Welcome to my portfolio, here are my Projects:
 -  [Covid-19 Analysis](https://github.com/s-k96/PortfolioProjects-Covid19Analysis)
 -  [SQL Hospital Database Practice](https://github.com/s-k96/SQLPractice-HospitalPatientDoctorAnalysis)
+-  [SQLZoo World Database Practice](https://github.com/s-k96/SQLZoo-World-Database-Practice/tree/main)
 -  [Bike Store Analysis - Excel Project](https://github.com/s-k96/Excel-Portfolio-Project)
+
 
 
 # 🛠️Tools Used

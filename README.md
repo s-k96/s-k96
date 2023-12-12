@@ -29,8 +29,7 @@ Welcome to my portfolio, here are my Projects:
 
 
 
-# 🔌Connect with me
-- [Linkedin](https://www.linkedin.com/in/slinkdin2023/)
+
 
 <!---
 s-k96/s-k96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
